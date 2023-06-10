@@ -1,0 +1,109 @@
+[
+  {
+    "name": "FOUOMENE PEWO Daniel Rene",
+    "job": "Co-Fondateur & Senior Developer",
+    "img": "assets/img/team/fouemene.jpeg",
+    "linkedin": "https://www.linkedin.com/in/daniel-foumane-bb8a942a",
+    "github": "https://github.com/fouomene",
+    "gitlab": "",
+    "email": "",
+    "phone": "+237674099619",
+    "website": "https://fouemene.com",
+    "stack": [
+      "Java",
+      "Spring",
+      "React",
+      "Html/CSS/JS"
+    ]
+  },
+  {
+    "name": "NGOS Simon Pascal",
+    "job": "Co-Fondateur & Technical Lead",
+    "img": "assets/img/team/simon.jpeg",
+    "linkedin": "https://www.linkedin.com/in/ngossp",
+    "github": "https://github.com/fouomene",
+    "gitlab": "",
+    "email": "",
+    "phone": "+33659661732",
+    "website": "https://fouemene.com",
+    "stack": [
+      "Java",
+      "Spring",
+      "Angular",
+      "React",
+      "Html/CSS/JS"
+    ]
+  },
+  {
+    "name": "KOUYEM SOCGNA Childéric",
+    "job": "Ingénieur Logiciel",
+    "img": "assets/img/team/childeric.jpeg",
+    "linkedin": "https://cm.linkedin.com/in/childeric-socgna-kouyem-2690b3159",
+    "github": "https://github.com/fouomene",
+    "gitlab": "",
+    "email": "",
+    "phone": "+2376938049924",
+    "website": "",
+    "stack": [
+      "Rust",
+      "Java",
+      "Spring",
+      "Angular",
+      "React",
+      "Html/CSS/JS"
+    ]
+  },
+  {
+    "name": "KUETE MELONG Brandol",
+    "job": "Développeur FullStack Java & React",
+    "img": "assets/img/team/kuete.jpeg",
+    "linkedin": "https://cm.linkedin.com/in/childeric-socgna-kouyem-2690b3159",
+    "github": "https://github.com/fouomene",
+    "gitlab": "",
+    "email": "",
+    "phone": "+2376938049924",
+    "website": "",
+    "stack": [
+      "Java",
+      "Spring",
+      "Angular",
+      "React",
+      "Html/CSS/JS"
+    ]
+  },
+  {
+    "name": "KOUASSEU Alex",
+    "job": "Senior Java Developer",
+    "img": "assets/img/team/alex.jpeg",
+    "linkedin": "https://www.linkedin.com/in/alex-kouasseu/",
+    "github": "https://github.com/fouomene",
+    "gitlab": "https://gitlab.com/alex.kouasseu",
+    "email": "alexkouasseu1995@gmail.com",
+    "phone": "+237656197707",
+    "website": "",
+    "stack": [
+      "Java",
+      "Spring",
+      "Angular",
+      "React",
+      "Html/CSS/JS"
+    ]
+  },
+  {
+    "name": "",
+    "job": "",
+    "img": "assets/img/team/",
+    "linkedin": "",
+    "github": "",
+    "gitlab": "",
+    "email": "",
+    "phone": "",
+    "website": "",
+    "stack": [
+      "Java",
+      "Spring",
+      "Angular",
+      "Html/CSS/JS"
+    ]
+  }
+]
